@@ -1,4 +1,4 @@
-# Hamster Escape
+# Hamster Escape - Creative Coding Project
 
 ## Overview
 This is a project I made in my Creative Coding class. 
