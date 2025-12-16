@@ -21,3 +21,6 @@ Click the link below to play Hamster Escape.
 - [Hamster Escape](https://aiogova.github.io/Hamster-Escape/)
 
 ## Installation Instructions
+There is no server-side programming in this project, so this site can be hosted on any platform that accommodates HTML, CSS, and JavaScript. In other words, this project is entirely frontend. It consists of static files. There is no backend code, so this project doesn't need anything to run except a web browser. Any hosting service that can serve static files will work. So there is nothing to really "install" here in a traditional sense.
+
+The site is deployed using GitHub Pages and can be viewed directly in a web browser. The link in the "Usage Instructions" leads to that.
